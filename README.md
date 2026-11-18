@@ -87,10 +87,20 @@ Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
 •	VLAN configuration on the switch<br>
+<img width="1920" height="1200" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/14d30a71-71a2-4c08-acb0-a5698c3926ba" />
+
 •	Router subinterface configuration<br>
+<img width="1920" height="1200" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/26d6b8a8-bc92-46b1-b315-5e689e825eaf" />
+
 •	PC IP settings<br>
+<img width="1920" height="1200" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/9dafc340-479b-4e8d-ad82-c0008a0dc502" />
+
 •	Successful ping between PCs in different VLANs after routing<br>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/23c40806-a46e-41a2-b19e-be660fa72b8e" />
+
 •	Successful ping between PCs in the same VLAN<br>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e9241954-ebde-415b-b568-ea52009ed27d" />
+
 ________________________________________
 # Result
 Inter-VLAN routing was successfully configured using the Router-on-a-Stick method. PCs in different VLANs could communicate through the router.
